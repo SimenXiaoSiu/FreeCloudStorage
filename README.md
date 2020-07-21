@@ -4,21 +4,14 @@ Private cloud for testing purpose
 #This is a WIP List of all public cloud storage sites, it is far from comprehensive, but feel free to contribute.
 
 Name,URL 
-adrive.com,https://www.adrive.com/ 
 
 amazon.com,https://www.amazon.com/clouddrive 
 
 asuswebstorage.com,https://www.asuswebstorage.com/navigate/ 
 
-bitcasa.com,https://www.bitcasa.com/ 
-
 box.com,https://www.box.com/ 
 
 cloudme.com,https://www.cloudme.com/ 
-
-copy.com,https://www.copy.com 
-
-cubby.com,https://www.cubby.com/ 
 
 Degoo,https://www.degoo.com 
 
