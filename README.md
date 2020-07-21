@@ -5,9 +5,13 @@ Private cloud for testing purpose
 
 Name,URL 
 adrive.com,https://www.adrive.com/ 
+
 amazon.com,https://www.amazon.com/clouddrive 
+
 asuswebstorage.com,https://www.asuswebstorage.com/navigate/ 
+
 bitcasa.com,https://www.bitcasa.com/ 
+
 box.com,https://www.box.com/ 
 cloudme.com,https://www.cloudme.com/ 
 copy.com,https://www.copy.com 
