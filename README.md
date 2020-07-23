@@ -21,6 +21,7 @@
 |Owndrive| https://owndrive.com/   | 1GB | Norway ||
 |Jottacloud|https://www.jottacloud.com |5GB|Norway ||
 |Tresorit| https://tresorit.com/   | 10GB | Switzerland ||
+|SMAC Cloud| https://www.smaccloud.com/  | 10GB | Deutschland |100 MB File Size Limit|
 |Ice Drive | https://icedrive.net/ | 10GB | UK||
 |GetSpace | https://www.getspace.uk | 50GB | UK|Web, webdav access|
 |TeraCloud|https://teracloud.jp/en/| 10GB|Japan|Web, webdav access|
