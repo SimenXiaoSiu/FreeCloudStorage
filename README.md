@@ -1,4 +1,4 @@
-# Cloud
+# Free Cloud Storage
 Private cloud for testing purpose
 
 #This is a WIP List of all public cloud storage sites, it is far from comprehensive, but feel free to contribute.
